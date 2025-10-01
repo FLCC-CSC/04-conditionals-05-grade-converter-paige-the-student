@@ -88,6 +88,8 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
+There is a difference between if-if-else and if-elif-else!
+Make sure you write statements in your correct order to solve the problem you have in front of you.
 
 
 
