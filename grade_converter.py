@@ -19,8 +19,11 @@ print('===== Grade Converter =====')
 
 percent = int(input('Enter a numerical grade (1-100): '))
 
+#print(list(range(80,90)))
+
 if percent > 100:
     print('A+')
+#elif percent in range(90, 100):
 elif percent >= 90:
     print('A')
 elif percent >= 80:
